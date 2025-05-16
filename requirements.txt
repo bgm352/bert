@@ -1,0 +1,15 @@
+streamlit
+bertopic>=0.16.0
+hdbscan
+umap-learn
+scikit-learn
+pandas
+plotly
+openai
+cohere
+sentence-transformers
+geopandas
+matplotlib
+wordcloud
+networkx
+scipy
